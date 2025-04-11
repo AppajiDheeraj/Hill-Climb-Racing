@@ -48,9 +48,9 @@ This real-time hand gesture-based controller uses **MediaPipe** and **OpenCV** t
    ```
 3. Run the script:
    
-  ```bash
-  python hill_climb_gesture_controller.py
-  ```
+    ```bash
+    python hill_climb_gesture_controller.py
+    ```
 4. Open Hill Climb Racing (or similar game that uses arrow keys) and control it with your hand gestures!
 5. Press q to quit.
 
