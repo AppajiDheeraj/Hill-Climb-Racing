@@ -3,6 +3,8 @@
 Control the gas and brake of your favorite hill climbing game using just your hand gestures!  
 This real-time hand gesture-based controller uses **MediaPipe** and **OpenCV** to detect open/closed hand states and triggers keyboard inputs accordingly via **PyAutoGUI**.
 
+
+
 ---
 
 ## 📸 Demo
@@ -56,13 +58,6 @@ This real-time hand gesture-based controller uses **MediaPipe** and **OpenCV** t
 
 ---
 
-## 📸 Screenshots
-
-| GAS Gesture (Hand Open)            | BRAKE Gesture (Fist Closed)         |
-|------------------------------------|-------------------------------------|
-| ![Gas Gesture](path/to/gas_image)  | ![Brake Gesture](path/to/brake_image) |
-
----
 ## ⚠️ Notes
 - Make sure your webcam is on and your hand is visible in the frame.
 
