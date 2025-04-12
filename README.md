@@ -3,7 +3,7 @@
 Control the gas and brake of your favorite hill climbing game using just your hand gestures!  
 This real-time hand gesture-based controller uses **MediaPipe** and **OpenCV** to detect open/closed hand states and triggers keyboard inputs accordingly via **PyAutoGUI**.
 
-![Demo](./media/hill.gif)
+![Demo](./media/hill_climb-ezgif.com-optimize.gif)
 
 
 ---
