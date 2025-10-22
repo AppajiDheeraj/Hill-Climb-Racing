@@ -5,12 +5,10 @@ This real-time hand gesture-based controller uses **MediaPipe** and **OpenCV** t
 
 ![Demo](./media/hill_climb-ezgif.com-optimize.gif)
 
-
 ---
 
-## 📸 Demo
+## 📸 Demo video
 <br>
-
 
 ---
 
