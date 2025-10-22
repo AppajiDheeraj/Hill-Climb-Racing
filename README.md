@@ -8,7 +8,7 @@ This real-time hand gesture-based controller uses **MediaPipe** and **OpenCV** t
 
 ---
 
-## 📸 Demo
+## 📸 Demo 
 <br>
 
 ---
